@@ -1,2 +1,2 @@
-# image-labeler
+# Image-labeler
 Image Labeler with jupyter widgets(for deep learning)
